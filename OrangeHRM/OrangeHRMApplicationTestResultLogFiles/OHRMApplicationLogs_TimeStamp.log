@@ -1,0 +1,572 @@
+2023-05-26 11:49:58,431 - log -INFO - Milk - true
+2023-05-26 11:49:58,464 - log -INFO - Butter - null
+2023-05-26 11:49:58,496 - log -INFO - Cheese - null
+2023-05-26 11:49:58,505 - log -INFO - 
+2023-05-26 11:50:03,592 - log -INFO - Milk - null
+2023-05-26 11:50:03,621 - log -INFO - Butter - true
+2023-05-26 11:50:03,656 - log -INFO - Cheese - null
+2023-05-26 11:50:03,662 - log -INFO - 
+2023-05-26 11:50:08,771 - log -INFO - Milk - null
+2023-05-26 11:50:08,804 - log -INFO - Butter - null
+2023-05-26 11:50:08,851 - log -INFO - Cheese - true
+2023-05-26 11:50:08,856 - log -INFO - 
+2023-05-26 11:55:10,413 - log -INFO - Milk - true
+2023-05-26 11:55:10,447 - log -INFO -              Milk - true
+2023-05-26 11:55:10,479 - log -INFO - Butter - null
+2023-05-26 11:55:10,503 - log -INFO -              Butter - null
+2023-05-26 11:55:10,534 - log -INFO - Cheese - null
+2023-05-26 11:55:10,561 - log -INFO -              Cheese - null
+2023-05-26 11:55:10,575 - log -INFO - 
+2023-05-26 11:55:15,709 - log -INFO - Milk - null
+2023-05-26 11:55:15,732 - log -INFO -              Milk - null
+2023-05-26 11:55:15,755 - log -INFO - Butter - true
+2023-05-26 11:55:15,779 - log -INFO -              Butter - true
+2023-05-26 11:55:15,801 - log -INFO - Cheese - null
+2023-05-26 11:55:15,824 - log -INFO -              Cheese - null
+2023-05-26 11:55:15,829 - log -INFO - 
+2023-05-29 11:56:18,303 - log -INFO - Milk - true
+2023-05-29 11:56:18,618 - log -INFO -              Milk - true
+2023-05-29 11:56:18,662 - log -INFO - Butter - null
+2023-05-29 11:56:18,690 - log -INFO -              Butter - null
+2023-05-29 11:56:18,717 - log -INFO - Cheese - null
+2023-05-29 11:56:18,752 - log -INFO -              Cheese - null
+2023-05-29 11:56:18,757 - log -INFO - 
+2023-05-29 11:56:23,885 - log -INFO - Milk - null
+2023-05-29 11:56:23,909 - log -INFO -              Milk - null
+2023-05-29 11:56:23,935 - log -INFO - Butter - true
+2023-05-29 11:56:23,964 - log -INFO -              Butter - true
+2023-05-29 11:56:23,988 - log -INFO - Cheese - null
+2023-05-29 11:56:24,011 - log -INFO -              Cheese - null
+2023-05-29 11:56:24,016 - log -INFO - 
+2023-05-29 11:56:29,169 - log -INFO - Milk - null
+2023-05-29 11:56:29,199 - log -INFO -              Milk - null
+2023-05-29 11:56:29,231 - log -INFO - Butter - null
+2023-05-29 11:56:29,264 - log -INFO -              Butter - null
+2023-05-29 11:56:29,300 - log -INFO - Cheese - true
+2023-05-29 11:56:29,333 - log -INFO -              Cheese - true
+2023-05-29 11:56:29,337 - log -INFO - 
+2023-05-29 16:53:33,577 - log -INFO - Milk - true
+2023-05-29 16:53:33,645 - log -INFO -              Milk - true
+2023-05-29 16:53:33,677 - log -INFO - Butter - null
+2023-05-29 16:53:33,703 - log -INFO -              Butter - null
+2023-05-29 16:53:33,733 - log -INFO - Cheese - null
+2023-05-29 16:53:33,758 - log -INFO -              Cheese - null
+2023-05-29 16:53:33,763 - log -INFO - 
+2023-05-29 16:53:38,896 - log -INFO - Milk - null
+2023-05-29 16:53:38,919 - log -INFO -              Milk - null
+2023-05-29 16:53:38,941 - log -INFO - Butter - true
+2023-05-29 16:53:38,970 - log -INFO -              Butter - true
+2023-05-29 16:53:39,003 - log -INFO - Cheese - null
+2023-05-29 16:53:39,025 - log -INFO -              Cheese - null
+2023-05-29 16:53:39,030 - log -INFO - 
+2023-05-29 16:53:44,141 - log -INFO - Milk - null
+2023-05-29 16:53:44,171 - log -INFO -              Milk - null
+2023-05-29 16:53:44,206 - log -INFO - Butter - null
+2023-05-29 16:53:44,237 - log -INFO -              Butter - null
+2023-05-29 16:53:44,287 - log -INFO - Cheese - true
+2023-05-29 16:53:44,321 - log -INFO -              Cheese - true
+2023-05-29 16:53:44,328 - log -INFO - 
+2023-05-30 12:56:39,541 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-30 12:56:55,070 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-30 12:57:21,953 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-30 12:57:24,347 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-30 12:57:25,383 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-30 12:57:27,669 - log -INFO - The actual LogIn page Text is :- LOGIN Panel
+2023-05-30 12:57:27,676 - log -INFO - The expected LogIn Page Text is :-LOGIN Panel
+2023-05-30 12:57:27,683 - log -INFO -  Validating LogIn Page LogInPanel Text Successfull - Naviagated to LogIN Page
+2023-05-30 12:57:27,983 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-30 12:57:29,125 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-30 12:57:34,295 - log -INFO - Validating LogIn Functionality
+2023-05-30 12:57:34,303 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 12:57:35,238 - log -INFO - Validating LogIn Functionality
+2023-05-30 12:57:35,243 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 12:57:36,117 - log -INFO - Validating LogIn Functionality
+2023-05-30 12:57:36,124 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 12:57:37,007 - log -INFO - Validating LogIn Functionality
+2023-05-30 12:57:37,012 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 12:57:37,935 - log -INFO - Validating LogIn Functionality
+2023-05-30 12:57:37,940 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 12:57:38,225 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-30 12:57:39,236 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-30 12:57:41,761 - log -INFO - Validating OHRM Application LogInPage Logo
+2023-05-30 12:57:41,769 - log -INFO - OrangeHRM Application LogIN Page does not contains OrangeHRMLogo - FAIL
+2023-05-30 12:57:41,779 - log -INFO -  OrangeHRM Application LogIn Page Logo existing
+2023-05-30 12:57:42,004 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-30 21:53:52,621 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-30 21:53:59,807 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-30 21:54:00,870 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-30 21:54:08,579 - log -INFO - Validating LogIn Functionality
+2023-05-30 21:54:08,591 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 21:54:09,741 - log -INFO - Validating LogIn Functionality
+2023-05-30 21:54:09,746 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 21:54:10,699 - log -INFO - Validating LogIn Functionality
+2023-05-30 21:54:10,709 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 21:54:11,761 - log -INFO - Validating LogIn Functionality
+2023-05-30 21:54:11,769 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 21:54:12,678 - log -INFO - Validating LogIn Functionality
+2023-05-30 21:54:12,686 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 21:54:12,691 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 21:54:22,649 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-30 21:54:23,935 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-30 21:54:27,282 - log -INFO - Validating LogIn Functionality
+2023-05-30 21:54:27,286 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 21:54:28,148 - log -INFO - Validating LogIn Functionality
+2023-05-30 21:54:28,153 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 21:54:29,037 - log -INFO - Validating LogIn Functionality
+2023-05-30 21:54:29,044 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 21:54:29,907 - log -INFO - Validating LogIn Functionality
+2023-05-30 21:54:29,914 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 21:54:30,767 - log -INFO - Validating LogIn Functionality
+2023-05-30 21:54:30,771 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 21:54:30,780 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 21:54:35,115 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-30 21:54:36,482 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-30 21:54:39,727 - log -INFO - Validating LogIn Functionality
+2023-05-30 21:54:39,736 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 21:54:40,620 - log -INFO - Validating LogIn Functionality
+2023-05-30 21:54:40,626 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 21:54:41,574 - log -INFO - Validating LogIn Functionality
+2023-05-30 21:54:41,578 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 21:54:42,443 - log -INFO - Validating LogIn Functionality
+2023-05-30 21:54:42,450 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 21:54:43,310 - log -INFO - Validating LogIn Functionality
+2023-05-30 21:54:43,319 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 21:54:43,323 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 21:54:53,620 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-30 21:54:54,793 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-30 21:54:58,497 - log -INFO - Validating LogIn Functionality
+2023-05-30 21:54:58,500 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 21:54:59,370 - log -INFO - Validating LogIn Functionality
+2023-05-30 21:54:59,379 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 21:55:00,439 - log -INFO - Validating LogIn Functionality
+2023-05-30 21:55:00,449 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 21:55:01,301 - log -INFO - Validating LogIn Functionality
+2023-05-30 21:55:01,311 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 21:55:02,182 - log -INFO - Validating LogIn Functionality
+2023-05-30 21:55:02,185 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 21:55:02,192 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 21:55:12,525 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-30 22:01:16,402 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-30 22:01:19,683 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-30 22:01:20,640 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-30 22:01:25,205 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:01:25,210 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:01:26,173 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:01:26,183 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:01:27,278 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:01:27,287 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:01:28,156 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:01:28,161 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:01:29,069 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:01:29,074 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:01:29,079 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:01:39,477 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-30 22:01:40,808 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-30 22:01:44,095 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:01:44,100 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:01:45,006 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:01:45,016 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:01:45,885 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:01:45,892 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:01:46,753 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:01:46,762 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:01:47,637 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:01:47,645 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:01:47,650 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:01:58,101 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-30 22:01:59,387 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-30 22:02:02,726 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:02:02,734 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:02:03,622 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:02:03,627 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:02:04,601 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:02:04,608 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:02:05,471 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:02:05,475 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:02:06,376 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:02:06,385 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:02:06,389 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:02:16,710 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-30 22:02:17,645 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-30 22:02:21,118 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:02:21,126 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:02:21,994 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:02:22,000 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:02:22,878 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:02:22,883 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:02:23,737 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:02:23,743 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:02:24,618 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:02:24,627 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:02:24,631 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:02:34,910 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-30 22:15:36,312 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-30 22:15:38,986 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-30 22:15:40,200 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-30 22:15:44,749 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:15:44,758 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:15:45,770 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:15:45,775 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:15:46,681 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:15:46,689 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:15:47,562 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:15:47,575 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:15:48,462 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:15:48,466 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:15:58,860 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-30 22:47:16,061 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-30 22:47:18,550 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-30 22:47:19,976 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-30 22:47:24,975 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:47:24,981 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:47:26,165 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:47:26,169 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:47:27,464 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:47:27,469 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:47:28,665 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:47:28,670 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:47:29,901 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:47:29,906 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:47:29,911 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:47:40,316 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-30 22:47:41,392 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-30 22:47:46,081 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:47:46,089 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:47:47,072 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:47:47,077 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:47:48,055 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:47:48,061 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:47:49,081 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:47:49,090 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:47:50,164 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:47:50,169 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:47:50,175 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:48:00,411 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-30 22:48:01,538 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-30 22:48:05,336 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:48:05,350 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:48:06,298 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:48:06,308 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:48:07,439 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:48:07,445 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:48:09,195 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:48:09,200 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:48:10,789 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:48:10,795 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:48:10,802 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:48:21,089 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-30 22:48:22,239 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-30 22:48:25,758 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:48:25,764 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:48:26,667 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:48:26,676 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:48:27,676 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:48:27,688 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:48:28,561 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:48:28,565 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:48:29,459 - log -INFO - Validating LogIn Functionality
+2023-05-30 22:48:29,463 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:48:29,468 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 22:48:39,800 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-30 23:21:20,860 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-30 23:21:29,274 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-30 23:21:30,630 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-30 23:21:38,529 - log -INFO - Validating LogIn Functionality
+2023-05-30 23:21:38,534 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 23:21:39,427 - log -INFO - Validating LogIn Functionality
+2023-05-30 23:21:39,434 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 23:21:40,317 - log -INFO - Validating LogIn Functionality
+2023-05-30 23:21:40,324 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 23:21:41,199 - log -INFO - Validating LogIn Functionality
+2023-05-30 23:21:41,203 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 23:21:42,070 - log -INFO - Validating LogIn Functionality
+2023-05-30 23:21:42,077 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 23:21:53,977 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-30 23:46:17,554 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-30 23:46:20,697 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-30 23:46:21,777 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-30 23:46:26,772 - log -INFO - Validating LogIn Functionality
+2023-05-30 23:46:26,779 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 23:46:27,666 - log -INFO - Validating LogIn Functionality
+2023-05-30 23:46:27,671 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 23:46:28,520 - log -INFO - Validating LogIn Functionality
+2023-05-30 23:46:28,533 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 23:46:29,407 - log -INFO - Validating LogIn Functionality
+2023-05-30 23:46:29,415 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 23:46:30,313 - log -INFO - Validating LogIn Functionality
+2023-05-30 23:46:30,320 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 23:46:40,788 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-31 11:51:40,751 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-31 11:51:44,824 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-31 11:51:46,398 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-31 11:51:54,716 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:51:54,724 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:51:55,739 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:51:55,745 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:51:56,761 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:51:56,770 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:51:57,693 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:51:57,701 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:51:58,679 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:51:58,688 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:51:58,693 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:52:10,581 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-31 11:52:11,946 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-31 11:52:16,279 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:52:16,285 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:52:17,333 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:52:17,338 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:52:18,290 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:52:18,295 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:52:19,195 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:52:19,201 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:52:20,267 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:52:20,273 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:52:20,280 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:52:30,687 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-31 11:52:31,838 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-31 11:52:35,324 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:52:35,329 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:52:36,224 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:52:36,230 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:52:37,131 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:52:37,141 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:52:38,026 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:52:38,032 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:52:38,954 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:52:38,963 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:52:38,971 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:52:49,298 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-31 11:52:50,297 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-31 11:52:54,498 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:52:54,502 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:52:55,432 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:52:55,437 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:52:56,350 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:52:56,354 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:52:57,219 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:52:57,227 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:52:58,137 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:52:58,143 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:52:58,149 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:53:08,509 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-31 11:56:51,944 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-31 11:56:54,274 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-31 11:56:55,704 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-31 11:56:59,890 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:56:59,897 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:57:00,830 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:57:00,838 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:57:01,761 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:57:01,774 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:57:02,670 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:57:02,678 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:57:03,602 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:57:03,612 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:57:03,616 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:57:13,947 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-31 11:57:14,954 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-31 11:57:18,473 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:57:18,480 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:57:19,415 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:57:19,421 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:57:20,348 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:57:20,354 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:57:21,231 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:57:21,240 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:57:22,136 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:57:22,148 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:57:22,155 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:57:32,478 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-31 11:57:33,527 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-31 11:57:37,378 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:57:37,384 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:57:38,312 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:57:38,317 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:57:39,247 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:57:39,254 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:57:40,219 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:57:40,228 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:57:41,147 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:57:41,156 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:57:41,162 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:57:51,496 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-31 11:57:52,465 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-31 11:57:55,673 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:57:55,680 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:57:56,582 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:57:56,586 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:57:57,483 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:57:57,488 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:57:58,360 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:57:58,368 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:57:59,292 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:57:59,301 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:57:59,307 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:58:09,648 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-31 12:02:55,876 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-31 12:02:58,156 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-31 12:03:57,361 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-31 12:04:00,124 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-31 12:04:01,463 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-31 12:04:05,891 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:04:05,899 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:04:06,859 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:04:06,868 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:04:07,793 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:04:07,801 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:04:08,721 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:04:08,727 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:04:09,662 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:04:09,670 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:04:09,675 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:04:20,070 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-31 12:04:21,088 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-31 12:04:24,687 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:04:24,695 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:04:25,597 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:04:25,610 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:04:26,545 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:04:26,549 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:04:27,432 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:04:27,441 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:04:28,392 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:04:28,396 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:04:28,401 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:04:38,737 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-31 12:04:39,888 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-31 12:04:44,193 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:04:44,204 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:04:45,093 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:04:45,103 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:04:46,015 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:04:46,024 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:04:46,894 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:04:46,901 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:04:47,821 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:04:47,829 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:04:47,837 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:04:58,175 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-31 12:04:59,256 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-31 12:05:02,822 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:05:02,827 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:05:03,696 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:05:03,700 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:05:04,614 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:05:04,618 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:05:05,496 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:05:05,500 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:05:06,407 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:05:06,417 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:05:06,425 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:05:16,745 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-31 12:08:54,749 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-31 12:08:57,771 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-31 12:08:58,753 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-31 12:09:03,132 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:09:03,139 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:09:04,039 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:09:04,047 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:09:04,952 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:09:04,959 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:09:05,855 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:09:05,860 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:09:06,740 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:09:06,745 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:09:06,756 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:09:14,365 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-31 12:09:15,472 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-31 12:09:18,500 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:09:18,508 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:09:19,097 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-31 12:11:42,675 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-31 12:11:45,544 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-31 12:11:46,551 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-31 12:11:51,582 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:11:51,589 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:11:52,707 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:11:52,713 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:11:53,665 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:11:53,670 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:11:54,578 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:11:54,583 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:11:56,388 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:11:56,395 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:11:56,403 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:11:56,551 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page Admin is:- Admin
+2023-05-31 12:11:56,557 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page Admin is:- Admin
+2023-05-31 12:11:56,567 - log -INFO - The Text Of The OrangeHRMApplication Home Page Admin is Matched:-PASS
+2023-05-31 12:11:56,830 - log -INFO -  Validating Home Page Admin Text Successfull - Naviagated to Home Page
+2023-05-31 12:11:57,248 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-31 12:11:58,963 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-31 12:12:03,562 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:12:03,568 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:12:04,498 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:12:04,504 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:12:05,488 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:12:05,494 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:12:06,916 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:12:06,922 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:12:12,000 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:12:12,005 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:12:12,010 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:12:12,109 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page PIM is:- PIM
+2023-05-31 12:12:12,115 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page PIM is:- PIM
+2023-05-31 12:12:12,121 - log -INFO - The Text Of The OrangeHRMApplication Home Page PIM is  Matched:-PASS
+2023-05-31 12:12:12,391 - log -INFO -  Validating Home Page PIM Text Successfull - Naviagated to Home Page
+2023-05-31 12:12:12,620 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-31 12:12:14,055 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-31 12:12:18,370 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:12:18,375 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:12:19,310 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:12:19,316 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:12:20,236 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:12:20,246 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:12:21,121 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:12:21,125 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:12:24,335 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:12:24,342 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:12:24,347 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:12:24,400 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page Leave is:- Leave
+2023-05-31 12:12:24,406 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page Leave is:- Leave
+2023-05-31 12:12:24,411 - log -INFO - The Text Of The OrangeHRMApplication Home Page Leave is  Matched:-PASS
+2023-05-31 12:12:24,577 - log -INFO -  Validating Home Page Leave Text Successfull - Naviagated to Home Page
+2023-05-31 12:12:25,006 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-31 12:12:26,550 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-31 12:12:30,118 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:12:30,125 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:12:31,015 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:12:31,020 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:12:32,121 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:12:32,128 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:12:33,009 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:12:33,014 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:12:36,094 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:12:36,101 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:12:36,106 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:12:36,188 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page Time is:- Time
+2023-05-31 12:12:36,193 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page time is:- Time
+2023-05-31 12:12:36,198 - log -INFO - The Text Of The OrangeHRMApplication Home Page Time is  Matched:-PASS
+2023-05-31 12:12:36,382 - log -INFO -  Validating Home Page Time Text Successfull - Naviagated to Home Page
+2023-05-31 12:12:36,654 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-31 12:12:59,365 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-31 12:13:01,349 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 
+2023-05-31 12:13:02,378 - log -INFO -  ******* Chrome Browser Launched Successfully ***
+2023-05-31 12:13:06,880 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:13:06,885 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:13:07,907 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:13:07,916 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:13:08,798 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:13:08,803 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:13:09,700 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:13:09,706 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:13:12,425 - log -INFO - Validating LogIn Functionality
+2023-05-31 12:13:12,432 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 12:13:12,511 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page PIM is:- PIM
+2023-05-31 12:13:12,516 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page PIM is:- PIM
+2023-05-31 12:13:12,526 - log -INFO - The Text Of The OrangeHRMApplication Home Page PIM is  Matched:-PASS
+2023-05-31 12:13:14,587 - log -INFO - The Actual Text Of The AddEmployee Header Text is:- Add Employee
+2023-05-31 12:13:14,592 - log -INFO - The Expected Text Of The AddEmployee Header Text is:- Add Employee
+2023-05-31 12:13:14,596 - log -INFO - The Text Of The AddEmployee Header Text is Matched - PASS
+2023-05-31 12:13:14,602 - log -INFO -  Validating AddEmployee Header Text Successfull - Naviagated to AddEmployee Page
+2023-05-31 12:13:14,851 - log -INFO - *** Chrome browser with Application Closed Successfully  *** 

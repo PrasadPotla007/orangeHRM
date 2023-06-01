@@ -1,0 +1,10 @@
+<suite name="OrangeHRMApplication">
+	<test name="prasad">
+		<classes>
+			<class name=" com.radiobuttons. RadioButtonsTesting"/>
+			<methods>
+				<include> </include>
+			</methods>
+		</classes>
+	</test>
+</suite>

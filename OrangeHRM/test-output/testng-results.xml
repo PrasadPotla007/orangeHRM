@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-31T12:12:56 IST" name="Default suite" finished-at="2023-05-31T12:13:14 IST" duration-ms="17935">
+    <groups>
+    </groups>
+    <test started-at="2023-05-31T12:12:56 IST" name="Default test" finished-at="2023-05-31T12:13:14 IST" duration-ms="17935">
+      <class name="com.OrangeHRMApplicationWebPagesTests.OrangeHRMAddEmployeePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.OrangeHRMApplicationWebPagesTests.OrangeHRMAddEmployeePageTest@50caa560]" started-at="2023-05-31T12:12:56 IST" name="setUp" finished-at="2023-05-31T12:13:00 IST" duration-ms="3988" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ffg()[pri:0, instance:com.OrangeHRMApplicationWebPagesTests.OrangeHRMAddEmployeePageTest@50caa560]" started-at="2023-05-31T12:13:00 IST" name="ffg" finished-at="2023-05-31T12:13:00 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ffg -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.OrangeHRMApplicationWebPagesTests.OrangeHRMAddEmployeePageTest@50caa560]" started-at="2023-05-31T12:13:00 IST" name="tearDown" finished-at="2023-05-31T12:13:01 IST" duration-ms="378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.OrangeHRMApplicationWebPagesTests.OrangeHRMAddEmployeePageTest@50caa560]" started-at="2023-05-31T12:13:01 IST" name="setUp" finished-at="2023-05-31T12:13:04 IST" duration-ms="3600" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validatingAddEmployeeHeaderTextTest()[pri:1, instance:com.OrangeHRMApplicationWebPagesTests.OrangeHRMAddEmployeePageTest@50caa560]" started-at="2023-05-31T12:13:04 IST" name="validatingAddEmployeeHeaderTextTest" description="Validating AddEmployeeText" finished-at="2023-05-31T12:13:14 IST" duration-ms="9636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingAddEmployeeHeaderTextTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.OrangeHRMApplicationWebPagesTests.OrangeHRMAddEmployeePageTest@50caa560]" started-at="2023-05-31T12:13:14 IST" name="tearDown" finished-at="2023-05-31T12:13:14 IST" duration-ms="248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.OrangeHRMApplicationWebPagesTests.OrangeHRMAddEmployeePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

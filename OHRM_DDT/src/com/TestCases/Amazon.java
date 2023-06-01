@@ -1,0 +1,55 @@
+package com.TestCases;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Test;
+
+public class Amazon {
+	
+	WebDriver driver;
+	String ApplicationURlAddress="http://amazon.in";
+	
+	@BeforeTest
+	public void setUp()
+	{
+		System.setProperty("webdriver.chrome.driver", "./resouresbrowser/chromedriver.exe");
+		
+		driver = new ChromeDriver();
+		driver.manage().window().maximize();
+		driver.get(ApplicationURlAddress);
+
+		
+	}
+	/*
+	@AfterTest
+	public void tearDown()
+	{
+		driver.quit();
+	}
+	*/
+	
+	@Test
+	public void customerServiceTest()
+	{
+		/*
+		xpath using contains:
+			1.//tagname[contains(text(),'partialtextvalue')]
+			
+		*/
+		
+		// //a[contains(text(),'Customer')]
+		
+		By customerServiceLocator=By.xpath("//a[contains(text(),'Customer')]");
+		WebElement customerService=driver.findElement(customerServiceLocator);
+		customerService.click();
+		
+		
+	}
+
+}
+
+
+

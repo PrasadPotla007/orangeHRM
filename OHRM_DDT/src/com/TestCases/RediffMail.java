@@ -1,0 +1,60 @@
+package com.TestCases;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Test;
+
+public class RediffMail {
+	
+	WebDriver driver;
+	String ApplicationURlAddress="http://register.rediff.com/register/register.php?FormName=user_details";
+	
+	@BeforeTest
+	public void setUp()
+	{
+		System.setProperty("webdriver.chrome.driver", "./resouresbrowser/chromedriver.exe");
+		
+		driver = new ChromeDriver();
+		driver.manage().window().maximize();
+		driver.get(ApplicationURlAddress);
+
+		
+	}
+	/*
+	@AfterTest
+	public void tearDown()
+	{
+		driver.quit();
+	}
+	*/
+
+	@Test
+	public void rediffMailTest() throws InterruptedException
+	{
+		// Full Name element property
+		// name="name2a364013"
+		// name="namea4a126ee"
+		// name="namebe918af8"
+		
+		
+		//Thread.sleep(5000);
+		
+	// 	By fullNameLocator=By.name("name2a364013");
+		// Dynamic Xpath expression
+	//	//*[starts-with(@name='name')] 
+
+		By fullNameLocator=By.xpath("//*[starts-with(@name,'name')]");
+		
+		WebElement fullName=driver.findElement(fullNameLocator);
+		fullName.sendKeys("Testing");
+	}
+	
+
+}
+
+
+
+

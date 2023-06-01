@@ -1,0 +1,8 @@
+<suite name="OrangeHRMApplication">
+	<test name="prasad">
+		<classes>
+			<class name="com.radiobuttons.RadioButtonsTesting"/>
+			
+		</classes>
+	</test>
+</suite>

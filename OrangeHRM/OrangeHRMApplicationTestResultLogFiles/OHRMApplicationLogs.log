@@ -1,0 +1,572 @@
+[main] INFO log - Milk - true
+[main] INFO log - Butter - null
+[main] INFO log - Cheese - null
+[main] INFO log - 
+[main] INFO log - Milk - null
+[main] INFO log - Butter - true
+[main] INFO log - Cheese - null
+[main] INFO log - 
+[main] INFO log - Milk - null
+[main] INFO log - Butter - null
+[main] INFO log - Cheese - true
+[main] INFO log - 
+[main] INFO log - Milk - true
+[main] INFO log -              Milk - true
+[main] INFO log - Butter - null
+[main] INFO log -              Butter - null
+[main] INFO log - Cheese - null
+[main] INFO log -              Cheese - null
+[main] INFO log - 
+[main] INFO log - Milk - null
+[main] INFO log -              Milk - null
+[main] INFO log - Butter - true
+[main] INFO log -              Butter - true
+[main] INFO log - Cheese - null
+[main] INFO log -              Cheese - null
+[main] INFO log - 
+[main] INFO log - Milk - true
+[main] INFO log -              Milk - true
+[main] INFO log - Butter - null
+[main] INFO log -              Butter - null
+[main] INFO log - Cheese - null
+[main] INFO log -              Cheese - null
+[main] INFO log - 
+[main] INFO log - Milk - null
+[main] INFO log -              Milk - null
+[main] INFO log - Butter - true
+[main] INFO log -              Butter - true
+[main] INFO log - Cheese - null
+[main] INFO log -              Cheese - null
+[main] INFO log - 
+[main] INFO log - Milk - null
+[main] INFO log -              Milk - null
+[main] INFO log - Butter - null
+[main] INFO log -              Butter - null
+[main] INFO log - Cheese - true
+[main] INFO log -              Cheese - true
+[main] INFO log - 
+[main] INFO log - Milk - true
+[main] INFO log -              Milk - true
+[main] INFO log - Butter - null
+[main] INFO log -              Butter - null
+[main] INFO log - Cheese - null
+[main] INFO log -              Cheese - null
+[main] INFO log - 
+[main] INFO log - Milk - null
+[main] INFO log -              Milk - null
+[main] INFO log - Butter - true
+[main] INFO log -              Butter - true
+[main] INFO log - Cheese - null
+[main] INFO log -              Cheese - null
+[main] INFO log - 
+[main] INFO log - Milk - null
+[main] INFO log -              Milk - null
+[main] INFO log - Butter - null
+[main] INFO log -              Butter - null
+[main] INFO log - Cheese - true
+[main] INFO log -              Cheese - true
+[main] INFO log - 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - The actual LogIn page Text is :- LOGIN Panel
+[main] INFO log - The expected LogIn Page Text is :-LOGIN Panel
+[main] INFO log -  Validating LogIn Page LogInPanel Text Successfull - Naviagated to LogIN Page
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - Validating OHRM Application LogInPage Logo
+[main] INFO log - OrangeHRM Application LogIN Page does not contains OrangeHRMLogo - FAIL
+[main] INFO log -  OrangeHRM Application LogIn Page Logo existing
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - The Actual Text Of The OrangeHRM Application Home Page Admin is:- Admin
+[main] INFO log - The Expected Text Of The OrangeHRM Application Home Page Admin is:- Admin
+[main] INFO log - The Text Of The OrangeHRMApplication Home Page Admin is Matched:-PASS
+[main] INFO log -  Validating Home Page Admin Text Successfull - Naviagated to Home Page
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - The Actual Text Of The OrangeHRM Application Home Page PIM is:- PIM
+[main] INFO log - The Expected Text Of The OrangeHRM Application Home Page PIM is:- PIM
+[main] INFO log - The Text Of The OrangeHRMApplication Home Page PIM is  Matched:-PASS
+[main] INFO log -  Validating Home Page PIM Text Successfull - Naviagated to Home Page
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - The Actual Text Of The OrangeHRM Application Home Page Leave is:- Leave
+[main] INFO log - The Expected Text Of The OrangeHRM Application Home Page Leave is:- Leave
+[main] INFO log - The Text Of The OrangeHRMApplication Home Page Leave is  Matched:-PASS
+[main] INFO log -  Validating Home Page Leave Text Successfull - Naviagated to Home Page
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - The Actual Text Of The OrangeHRM Application Home Page Time is:- Time
+[main] INFO log - The Expected Text Of The OrangeHRM Application Home Page time is:- Time
+[main] INFO log - The Text Of The OrangeHRMApplication Home Page Time is  Matched:-PASS
+[main] INFO log -  Validating Home Page Time Text Successfull - Naviagated to Home Page
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
+[main] INFO log -  ******* Chrome Browser Launched Successfully ***
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - Validating LogIn Functionality
+[main] INFO log - Validation of LogIn functionality Successfull
+[main] INFO log - The Actual Text Of The OrangeHRM Application Home Page PIM is:- PIM
+[main] INFO log - The Expected Text Of The OrangeHRM Application Home Page PIM is:- PIM
+[main] INFO log - The Text Of The OrangeHRMApplication Home Page PIM is  Matched:-PASS
+[main] INFO log - The Actual Text Of The AddEmployee Header Text is:- Add Employee
+[main] INFO log - The Expected Text Of The AddEmployee Header Text is:- Add Employee
+[main] INFO log - The Text Of The AddEmployee Header Text is Matched - PASS
+[main] INFO log -  Validating AddEmployee Header Text Successfull - Naviagated to AddEmployee Page
+[main] INFO log - *** Chrome browser with Application Closed Successfully  *** 
